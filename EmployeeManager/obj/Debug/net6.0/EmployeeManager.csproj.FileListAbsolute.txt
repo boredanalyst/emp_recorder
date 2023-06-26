@@ -1,0 +1,15 @@
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.exe
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.deps.json
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.runtimeconfig.json
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.dll
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\bin\Debug\net6.0\EmployeeManager.pdb
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.csproj.AssemblyReference.cache
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.AssemblyInfoInputs.cache
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.AssemblyInfo.cs
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.dll
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\refint\EmployeeManager.dll
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.pdb
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\EmployeeManager.genruntimeconfig.cache
+C:\Users\USer\source\repos\EmployeeManager\EmployeeManager\obj\Debug\net6.0\ref\EmployeeManager.dll
